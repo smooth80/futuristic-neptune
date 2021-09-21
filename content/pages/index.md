@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Smooth Apps
-    subtitle: Creativ
+    subtitle: Creative
   - type: features_section
     title: Features
     features:
