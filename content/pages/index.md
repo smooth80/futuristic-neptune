@@ -81,7 +81,7 @@ sections:
     background_color: gray
 seo:
   title: Smooth Apps
-  description: The preview of the Starter theme
+  description: Creatively educating the world.
   extra:
     - name: 'og:type'
       value: website
