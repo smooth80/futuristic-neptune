@@ -11,7 +11,7 @@ sections:
         style: secondary
     align: left
     image: /images/BeFunky-photo.jpg
-    image_alt: sneakystreamers
+    image_alt: sneakystreamers.com
     image_position: right
     has_background: true
     background:
