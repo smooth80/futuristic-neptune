@@ -19,7 +19,7 @@ sections:
       background_image: /images/BeFunky-photo-6976d244.jpg
       background_image_opacity: 20
       background_image_size: auto
-      background_image_repeat: no-repeat
+      background_image_repeat: repeat
     title: Smooth Apps
     subtitle: Creatively educating the world.
   - type: features_section
